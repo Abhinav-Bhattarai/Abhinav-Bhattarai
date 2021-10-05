@@ -4,15 +4,16 @@
 
 ## I'm a Student, Developer and a geek !!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning Solidity and blockchain 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Learn more about Web 3.0 and penetration testing
 - ⚡ Fun Fact: All I do is code
+- ⚡ Interests: Web development and Penetration Testing
 
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
@@ -39,7 +40,7 @@
 <br />
 
 ---
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Abhinav-Bhattarai)](https://github.com/Abhinav-Bhattarai/github-readme-stats);
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
