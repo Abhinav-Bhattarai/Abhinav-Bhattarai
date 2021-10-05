@@ -4,7 +4,7 @@
 
 ## I'm a Student, Developer and a geek !!
 
-- 🌱 I’m currently learning Solidity and blockchain 🤣
+- 🌱 I’m currently learning Solidity and blockchain
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Learn more about Web 3.0 and penetration testing
 - ⚡ Fun Fact: All I do is code
