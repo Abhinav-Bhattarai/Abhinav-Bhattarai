@@ -4,11 +4,11 @@
 
 ## I'm a Student, Developer and a geek !!
 
-- 🌱 I’m currently learning Solidity and blockchain
+- 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Learn more about Web 3.0 and penetration testing
-- ⚡ Fun Fact: All I do is code
-- ⚡ Interests: Web development and Penetration Testing
+- 🥅 2021 Goals: Learn about Web 3.0 and Machine Learning
+- ⚡ Fun Fact: All I do is code ><
+- ⚡ Interests: Web dev and Pen Test and DL
 
 ### Connect with me:
 
