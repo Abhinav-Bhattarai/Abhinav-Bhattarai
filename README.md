@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Learn about Web 3.0 and Machine Learning
 - ⚡ Fun Fact: All I do is code ><
-- ⚡ Interests: Web dev and Pen Test and DL
+- ⚡ Interests: Web dev, Penetration Testing and DeepLearning
 
 ### Connect with me:
 
