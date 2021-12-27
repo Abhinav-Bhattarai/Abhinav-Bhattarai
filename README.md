@@ -4,9 +4,9 @@
 
 ## I'm a Student, Developer and a geek !!
 
-- 🌱 I’m currently learning Machine Learning
+- 🌱 Currently working on Deep Learning
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Learn about Web 3.0 and Machine Learning
+- 🥅 2022 Goals: Learn about Web 3.0 and Deep Learning
 - ⚡ Fun Fact: All I do is code ><
 - ⚡ Interests: Web dev, Penetration Testing and DeepLearning
 
