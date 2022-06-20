@@ -15,6 +15,7 @@
 [<img align="left" alt="codeSTACKr | Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="50px" height="25px" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />][abhinav]
 
 <br />
 
@@ -63,3 +64,4 @@
 [twitter]: https://twitter.com/Abhinavjs5
 [instagram]: https://www.instagram.com/abhinav.bhattarai.1/
 [linkedin]: https://www.linkedin.com/in/abhinav-bhattarai-1632a5200/
+[abhinav]: https://abhinav-bhattarai.netlify.app/
