@@ -6,8 +6,8 @@
 
 - 🌱 Currently working on Deep Learning
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Learn about Web 3.0 and Deep Learning
-- ⚡ Fun Fact: All I do is code ><
+- 🥅 2022 Goals: Learn Web 3.0 and Deep Learning
+- ⚡ Fun Fact: All I do is code and stare ><
 - ⚡ Interests: Web dev, Penetration Testing and DeepLearning
 
 ### Connect with me:
