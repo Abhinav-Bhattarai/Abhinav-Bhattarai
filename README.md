@@ -2,7 +2,7 @@
 
 I am a motivated, full stack web and mobile app developer working remotely for last 4 years. I love coding in TypeScript (due to it's diversity in backend, frontned, and mobile applications).
 
-🔭 I’m currently working on All Carat AI<br>🌱 I’m currently learning Financial programming and more about web development apart from that<br>💬 Ask me about React.js<br>⚡ Fun fact: I Love coffee, I'd appreciate it if you help me buy it 😄
+🔭 I’m currently working on Upwork<br>🌱 I’m currently learning Financial programming and more about web development apart from that<br>💬 Ask me about React.js<br>⚡ Fun fact: I Love coffee, I'd appreciate it if you help me buy it 😄
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/abhinav.bhattarai.1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/abhinav__bhattarai/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinav-bhattarai) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15022652/abhinav-bhattarai) 
